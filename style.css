@@ -1,0 +1,42 @@
+.card{
+    background-color: hsl(0, 0%, 100%);
+    width: 275px;
+    padding: 10px;
+    border-radius: 25px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 15%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.qr-code{
+    width: 250px;
+    border-radius: 25px;
+    align-items: center;
+}
+
+.infobox{
+    width: 250px;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+
+p{
+    font-weight: 400;
+    padding: 5px
+}
